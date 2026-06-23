@@ -19,13 +19,7 @@ This project demonstrates **Data Visualization, Business Intelligence, Data Clea
 
 # 📷 Dashboard Preview
 
-# 📷 Dashboard Preview
-
-## IPL 2025 Batting Performance Dashboard
-
-<p align="center">
-  <img src="Images/dashboard-preview.png" width="100%">
-</p>
+![Dashboard Preview](Screenshot.png)
 
 ### Dashboard Highlights
 
