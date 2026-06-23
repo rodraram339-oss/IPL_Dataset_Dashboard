@@ -19,15 +19,33 @@ This project demonstrates **Data Visualization, Business Intelligence, Data Clea
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+# 📷 Dashboard Preview
 
-Example:
+## IPL 2025 Batting Performance Dashboard
 
-```md
-![Dashboard Screenshot](images/dashboard.png)
-```
+<p align="center">
+  <img src="Images/dashboard-preview.png" width="100%">
+</p>
+
+### Dashboard Highlights
+
+✔ Team-wise Match Analysis  
+✔ Team-wise Sixes Distribution  
+✔ Total Matches KPI Card  
+✔ Team Statistical Summary  
+✔ Runs by Team Visualization  
+✔ Top Players Performance Analysis  
 
 ---
+
+
+# 📷 Dashboard Preview
+
+## IPL 2025 Batting Performance Dashboard
+
+<p align="center">
+  <img src="Screenshot.png" width="100%" alt="IPL Dashboard Preview">
+</p>
 
 # 🎯 Objective
 
