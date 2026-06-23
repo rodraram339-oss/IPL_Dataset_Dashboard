@@ -17,9 +17,6 @@ This project demonstrates **Data Visualization, Business Intelligence, Data Clea
 
 ---
 
-# 📷 Dashboard Preview
-
-![Dashboard Preview](Screenshot.png)
 
 ### Dashboard Highlights
 
